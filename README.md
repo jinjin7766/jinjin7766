@@ -60,12 +60,12 @@
 
 | [![SQL_표지](https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png)](https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf) | [![Project 2 Thumbnail](https://github.com/jinjin7766/Portfolio/blob/main/%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%91%9C%EC%A7%80.png)](https://github.com/jinjin7766/Portfolio/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C_%ED%8F%AD%EC%97%BC_%EC%A0%80%EA%B0%90%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BF%A8%ED%8E%98%EC%9D%B4%EB%B8%8C%EB%A8%BC%ED%8A%B8_%EC%B5%9C%EC%A0%81_%EC%9E%85%EC%A7%80_%EC%84%A0%EC%A0%95.pdf) |
 |:------------------------------------------------------:|:-------------------------------------------------------------:|
-| **저출산 원인 분석** [**(PDF 보기)**](./11조_박진우_조혜정.pdf) | **세종시 빅데이터 공모전** [**(PDF 보기)**](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
+| **저출산 원인 분석** [**(PDF 보기)**](https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf) | **세종시 빅데이터 공모전** [**(PDF 보기)**](https://github.com/jinjin7766/Portfolio/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C_%ED%8F%AD%EC%97%BC_%EC%A0%80%EA%B0%90%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BF%A8%ED%8E%98%EC%9D%B4%EB%B8%8C%EB%A8%BC%ED%8A%B8_%EC%B5%9C%EC%A0%81_%EC%9E%85%EC%A7%80_%EC%84%A0%EC%A0%95.pdf) |
 | 저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다. | 세종시 폭염 저감을 위한 쿨페이브먼트 최적 입지 선정 프로젝트입니다. |
 
 | [![Project 3 Thumbnail](https://github.com/jinjin7766/Portfolio/blob/main/%ED%87%B4%EC%82%AC%EC%98%88%EC%B8%A1_%ED%91%9C%EC%A7%80.png)](https://github.com/jinjin7766/Portfolio/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1_%ED%9B%84_%EC%B5%9C%EC%A2%85_%ED%87%B4%EC%82%AC%EC%9E%90%EC%98%88%EC%B8%A1.pdf) | [![Project 4 Thumbnail](https://github.com/jinjin7766/Portfolio/blob/main/%EC%A0%88%EB%8F%84%ED%83%90%EC%A7%80_%ED%91%9C%EC%A7%80.png)](https://github.com/jinjin7766/Portfolio/blob/main/%EB%AC%B4%EC%9D%B8%EC%A0%90%ED%8F%AC_%EC%A0%88%EB%8F%84%ED%83%90%EC%A7%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf) |
 |:-------------------------------------------------------------:|:---------------------------------------------------------:|
-| **캐글 데이터를 이용한 퇴사 예측** [**(PDF 보기)**](./피드백_후_최종_퇴사자예측.pdf) | **절도 행동 검출** [**(PDF 보기)**](./무인점포_절도탐지_프로그램.pdf) |
+| **캐글 데이터를 이용한 퇴사 예측** [**(PDF 보기)**](https://github.com/jinjin7766/Portfolio/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1_%ED%9B%84_%EC%B5%9C%EC%A2%85_%ED%87%B4%EC%82%AC%EC%9E%90%EC%98%88%EC%B8%A1.pdf) | **절도 행동 검출** [**(PDF 보기)**](https://github.com/jinjin7766/Portfolio/blob/main/%EB%AC%B4%EC%9D%B8%EC%A0%90%ED%8F%AC_%EC%A0%88%EB%8F%84%ED%83%90%EC%A7%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf) |
 | 캐글 데이터를 활용하여 직원 퇴사 예측 모델을 개발한 프로젝트입니다. | 무인점포에서 절도 행동을 YOLO 모델로 탐지하는 딥러닝 프로젝트입니다. |
 
 
