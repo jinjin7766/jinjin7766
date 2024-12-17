@@ -55,19 +55,33 @@
     </div> 
 </div>
 
-## Projects Overview
+<!-- Projects 섹션 -->
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 Projects </h2> <br> 
+    
+    <!-- 프로젝트 1 -->
+    <div style="text-align: center; margin-bottom: 30px;">
+        <a href="파일경로/프로젝트1.pdf" target="_blank">
+            <img src="파일경로/프로젝트1표지.jpg" alt="프로젝트1 표지" style="width: 300px; height: auto; border: 1px solid #ccc; border-radius: 10px;">
+        </a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">
+            <strong>프로젝트 1 제목</strong><br>
+            프로젝트의 간단한 설명을 여기에 작성합니다. 클릭하면 PDF 파일을 확인할 수 있습니다.
+        </p>
+    </div>
 
-| [![SQL_표지](SQL_표지.png)](./11조_박진우_조혜정.pdf) | [![Project 2 Thumbnail](공모전_표지.png)](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
-|:------------------------------------------------------:|:-------------------------------------------------------------:|
-| **저출산 원인 분석** [**(PDF 보기)**](./11조_박진우_조혜정.pdf) | **세종시 빅데이터 공모전** [**(PDF 보기)**](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
-| 저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다. | 세종시 폭염 저감을 위한 쿨페이브먼트 최적 입지 선정 프로젝트입니다. |
+    <!-- 프로젝트 2 -->
+    <div style="text-align: center; margin-bottom: 30px;">
+        <a href="파일경로/프로젝트2.pdf" target="_blank">
+            <img src="파일경로/프로젝트2표지.jpg" alt="프로젝트2 표지" style="width: 300px; height: auto; border: 1px solid #ccc; border-radius: 10px;">
+        </a>
+        <p style="margin-top: 10px; font-size: 14px; color: #333;">
+            <strong>프로젝트 2 제목</strong><br>
+            프로젝트의 간단한 설명을 여기에 작성합니다. 클릭하면 PDF 파일을 확인할 수 있습니다.
+        </p>
+    </div>
+</div>
 
-| [![Project 3 Thumbnail](퇴사예측_표지.png)](./피드백_후_최종_퇴사자예측.pdf) | [![Project 4 Thumbnail](절도탐지_표지.png)](./무인점포_절도탐지_프로그램.pdf) |
-|:-------------------------------------------------------------:|:---------------------------------------------------------:|
-| **캐글 데이터를 이용한 퇴사 예측** [**(PDF 보기)**](./피드백_후_최종_퇴사자예측.pdf) | **절도 행동 검출** [**(PDF 보기)**](./무인점포_절도탐지_프로그램.pdf) |
-| 캐글 데이터를 활용하여 직원 퇴사 예측 모델을 개발한 프로젝트입니다. | 무인점포에서 절도 행동을 YOLO 모델로 탐지하는 딥러닝 프로젝트입니다. |
-
----
 
 
 
