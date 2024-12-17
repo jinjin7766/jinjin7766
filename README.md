@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Hadoop&logoColor=white">
         <img src="https://img.shields.io/badge/Hive-FFB81C?style=flat&logo=Hive&logoColor=white">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">  
-        <img src="https://img.shields.io/badge/Pandas-#1A8149?style=flat&logo=Pandas&logoColor=white"> 
+        <img src="https://img.shields.io/badge/pandas-#1A8149?style=flat&logo=pandas&logoColor=white"> 
     </div>
 </div>
 
