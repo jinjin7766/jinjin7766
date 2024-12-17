@@ -46,15 +46,6 @@
     </div> 
 </div>
 
-<!-- Stats 섹션 -->
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=jinjin7766&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinjin7766&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
-    </div> 
-</div>
-
 ## Projects Overview
 
 | [![SQL_표지](SQL_표지.png)](./11조_박진우_조혜정.pdf) | [![Project 2 Thumbnail](공모전_표지.png)](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
@@ -68,3 +59,15 @@
 | 캐글 데이터를 활용하여 직원 퇴사 예측 모델을 개발한 프로젝트입니다. | 무인점포에서 절도 행동을 YOLO 모델로 탐지하는 딥러닝 프로젝트입니다. |
 
 ---
+
+
+
+<!-- Stats 섹션 -->
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div style="text-align: left;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=jinjin7766&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinjin7766&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+    </div> 
+</div>
+
