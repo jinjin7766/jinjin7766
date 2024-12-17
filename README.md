@@ -58,7 +58,7 @@
 <!-- Projects 섹션 -->
 ## 📂 Projects Overview
 
-| [![SQL_표지](https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png)](./11조_박진우_조혜정.pdf) | [![Project 2 Thumbnail](공모전_표지.png)](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
+| [![SQL_표지](https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png)](./https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf) | [![Project 2 Thumbnail](공모전_표지.png)](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
 |:------------------------------------------------------:|:-------------------------------------------------------------:|
 | **저출산 원인 분석** [**(PDF 보기)**](./11조_박진우_조혜정.pdf) | **세종시 빅데이터 공모전** [**(PDF 보기)**](./세종시_폭염_저감을_위한_쿨페이브먼트_최적_입지_선정.pdf) |
 | 저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다. | 세종시 폭염 저감을 위한 쿨페이브먼트 최적 입지 선정 프로젝트입니다. |
