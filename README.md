@@ -29,7 +29,12 @@
         <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Hadoop&logoColor=white">
         <img src="https://img.shields.io/badge/Hive-FFB81C?style=flat&logo=Hive&logoColor=white">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">  
-        <img src="https://img.shields.io/badge/pandas-#1A8149?style=flat&logo=pandas&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white">
+        <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/SHAP-0096C7?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/Tkinter-003366?style=flat&logo=python&logoColor=white">
     </div>
 </div>
 
