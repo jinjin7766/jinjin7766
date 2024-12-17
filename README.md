@@ -1,6 +1,6 @@
 <div align="center">
-    <!-- 큰 제목 이미지 -->
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:64af69,100:4fa15f&height=180&text=Park%20Jin%20Woo%20포트폴리오&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <!-- 큰 제목 -->
+    <h1 style="font-size: 50px; font-weight: bold; color: #4fa15f; margin-bottom: 20px;">Park Jin Woo 포트폴리오</h1>
 </div>
 
 <!-- 자기소개 섹션 -->
