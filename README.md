@@ -11,13 +11,13 @@
 
 <!-- 자기소개 섹션 -->
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
 </div>
 
 
 
-## Activity
+## 📚 Activity
 - **실무에서 바로 쓰는 SQL 기본과 SQL 튜닝** (2024-05-01 ~ 2024-05-29)
 - **프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정** (2024-05-09 ~ 2024-11-18)
 
