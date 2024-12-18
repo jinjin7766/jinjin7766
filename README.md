@@ -46,7 +46,7 @@
         <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
         <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
         <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/LinkedIn-E4405F?style=flat&logo=LinkedIn&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"></a>
     </div>  
     <br> 
     <div style="text-align: left;"> 
