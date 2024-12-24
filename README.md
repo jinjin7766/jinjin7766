@@ -67,9 +67,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
         <a href="mailto:jinjin776683@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/%EC%A7%84%EC%9A%B0-%EB%B0%95-184996333/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
         <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/%EC%A7%84%EC%9A%B0-%EB%B0%95-184996333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"></a>
         <a href="mailto:jinjin7766@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"></a>
     </div>  
     <br> 
