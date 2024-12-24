@@ -93,6 +93,42 @@
 
 
 
+## 📂 Projects Overview
+
+| [![SQL_표지](https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png)](https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf) | [![Project 2 Thumbnail](https://github.com/jinjin7766/Portfolio/blob/main/%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%91%9C%EC%A7%80.png)](https://github.com/jinjin7766/Portfolio/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C_%ED%8F%AD%EC%97%BC_%EC%A0%80%EA%B0%90%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BF%A8%ED%8E%98%EC%9D%B4%EB%B8%8C%EB%A8%BC%ED%8A%B8_%EC%B5%9C%EC%A0%81_%EC%9E%85%EC%A7%80_%EC%84%A0%EC%A0%95.pdf) |
+|:------------------------------------------------------:|:-------------------------------------------------------------:|
+| **저출산 원인 분석** [**(PDF 보기)**](https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf) | **세종시 빅데이터 공모전** [**(PDF 보기)**](https://github.com/jinjin7766/Portfolio/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C_%ED%8F%AD%EC%97%BC_%EC%A0%80%EA%B0%90%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BF%A8%ED%8E%98%EC%9D%B4%EB%B8%8C%EB%A8%BC%ED%8A%B8_%EC%B5%9C%EC%A0%81_%EC%9E%85%EC%A7%80_%EC%84%A0%EC%A0%95.pdf) |
+| 저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다. | 세종시 폭염 저감을 위한 쿨페이브먼트 최적 입지 선정 프로젝트입니다. |
+| <details><summary>자세히 보기</summary>
+  <div align="left">
+    <ul>
+      <li>SQL 쿼리를 사용하여 데이터 전처리</li>
+      <li>Tableau를 활용한 데이터 시각화</li>
+      <li>정책 제안을 위한 인사이트 제공</li>
+    </ul>
+    <br>
+    **기술 스택**:<br>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
+  </div>
+</details> | <details><summary>자세히 보기</summary>
+  <div align="left">
+    <ul>
+      <li>Python과 Pandas를 사용하여 데이터 분석</li>
+      <li>Tableau를 활용한 열섬 현상 분석</li>
+      <li>쿨페이브먼트 설치 최적 위치 제안</li>
+    </ul>
+    <br>
+    **기술 스택**:<br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
+  </div>
+</details> |
+
+
+
 
 <!-- Contact 섹션 -->
 <div style="text-align: left;">
