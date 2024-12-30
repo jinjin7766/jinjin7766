@@ -140,3 +140,60 @@
     </div> 
 </div>
 
+
+
+
+
+<div style="font-family: Arial, sans-serif; margin-top: 30px;">
+  <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33;">📂 Projects Overview</h2>
+
+  <!-- 첫 번째 프로젝트 -->
+  <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+    <h3 style="color: #282d33; margin-bottom: 10px;">
+      저출산 원인 분석
+      <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">PDF 보기</a>
+    </h3>
+    <a onclick="toggleDetails('details1')" style="color: #03A9F4; text-decoration: none; cursor: pointer;">> 자세한 내용</a>
+    <div id="details1" style="display: none; margin-top: 10px; color: #585858;">
+      <p>
+        이 프로젝트는 저출산 문제의 원인을 데이터 기반으로 분석하였습니다. 주요 작업:
+        <ul>
+          <li>SQL 쿼리를 활용한 데이터 전처리</li>
+          <li>Tableau를 이용한 데이터 시각화</li>
+          <li>정책 제안 및 보고서 작성</li>
+        </ul>
+      </p>
+    </div>
+  </div>
+
+  <!-- 두 번째 프로젝트 -->
+  <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+    <h3 style="color: #282d33; margin-bottom: 10px;">
+      세종시 빅데이터 공모전
+      <a href="https://github.com/jinjin7766/Portfolio/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C_%ED%8F%AD%EC%97%BC_%EC%A0%80%EA%B0%90%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BF%A8%ED%8E%98%EC%9D%B4%EB%B8%8C%EB%A8%BC%ED%8A%B8_%EC%B5%9C%EC%A0%81_%EC%9E%85%EC%A7%80_%EC%84%A0%EC%A0%95.pdf" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">PDF 보기</a>
+    </h3>
+    <a onclick="toggleDetails('details2')" style="color: #03A9F4; text-decoration: none; cursor: pointer;">> 자세한 내용</a>
+    <div id="details2" style="display: none; margin-top: 10px; color: #585858;">
+      <p>
+        세종시 폭염 저감을 위한 쿨페이브먼트 설치 최적 입지 선정 프로젝트입니다. 주요 작업:
+        <ul>
+          <li>Python과 Pandas를 활용한 데이터 분석</li>
+          <li>Tableau를 이용한 데이터 시각화</li>
+          <li>지역별 열섬 현상 분석</li>
+        </ul>
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleDetails(id) {
+    const details = document.getElementById(id);
+    if (details.style.display === "none") {
+      details.style.display = "block";
+    } else {
+      details.style.display = "none";
+    }
+  }
+</script>
+
