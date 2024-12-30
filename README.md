@@ -150,10 +150,12 @@
 
   <!-- 프로젝트 1 -->
   <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <h3 style="color: #282d33; display: flex; justify-content: space-between; align-items: center;">
-      <span>저출산 원인 분석</span>
-      <button onclick="toggleDetails('details1')" style="background: none; border: none; color: #03A9F4; cursor: pointer; font-size: 14px;">자세히 보기 &#9662;</button>
-    </h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h3 style="margin: 0; color: #282d33;">저출산 원인 분석</h3>
+      <button onclick="toggleDetails('details1')" style="background: none; border: none; cursor: pointer; font-size: 16px; transform: rotate(0); transition: transform 0.3s;" id="arrow1">
+        &#9662;
+      </button>
+    </div>
     <div id="details1" style="display: none; margin-top: 10px; color: #585858;">
       <p>
         이 프로젝트는 저출산 문제의 원인을 데이터 기반으로 분석하였습니다. 주요 작업:
@@ -168,10 +170,12 @@
 
   <!-- 프로젝트 2 -->
   <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <h3 style="color: #282d33; display: flex; justify-content: space-between; align-items: center;">
-      <span>세종시 빅데이터 공모전</span>
-      <button onclick="toggleDetails('details2')" style="background: none; border: none; color: #03A9F4; cursor: pointer; font-size: 14px;">자세히 보기 &#9662;</button>
-    </h3>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h3 style="margin: 0; color: #282d33;">세종시 빅데이터 공모전</h3>
+      <button onclick="toggleDetails('details2')" style="background: none; border: none; cursor: pointer; font-size: 16px; transform: rotate(0); transition: transform 0.3s;" id="arrow2">
+        &#9662;
+      </button>
+    </div>
     <div id="details2" style="display: none; margin-top: 10px; color: #585858;">
       <p>
         세종시 폭염 저감을 위한 쿨페이브먼트 설치 최적 입지 선정 프로젝트입니다. 주요 작업:
@@ -188,16 +192,17 @@
 <script>
   function toggleDetails(id) {
     const details = document.getElementById(id);
-    const button = details.previousElementSibling.querySelector("button");
+    const arrow = document.querySelector(`#arrow${id.slice(-1)}`); // 화살표 버튼 선택
 
     if (details.style.display === "none") {
       details.style.display = "block";
-      button.innerHTML = "자세히 보기 &#9652;"; // 화살표 위로 변경
+      arrow.innerHTML = "&#9652;"; // 화살표 위로 변경
+      arrow.style.transform = "rotate(180deg)";
     } else {
       details.style.display = "none";
-      button.innerHTML = "자세히 보기 &#9662;"; // 화살표 아래로 변경
+      arrow.innerHTML = "&#9662;"; // 화살표 아래로 변경
+      arrow.style.transform = "rotate(0deg)";
     }
   }
 </script>
-ㅍ     
 
