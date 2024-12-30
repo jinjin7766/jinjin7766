@@ -144,17 +144,15 @@
 
 
 
+<!-- Projects 섹션 -->
 <div style="font-family: Arial, sans-serif; margin-top: 30px;">
   <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33;">📂 Projects Overview</h2>
 
   <!-- 프로젝트 1 -->
   <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <h3 style="color: #282d33; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between;">
+    <h3 style="color: #282d33; display: flex; justify-content: space-between; align-items: center;">
       <span>저출산 원인 분석</span>
-      <span onclick="toggleDetails('details1')" style="cursor: pointer; display: flex; align-items: center; color: #03A9F4;">
-        <span>자세한 내용</span>
-        <span id="arrow1" style="margin-left: 5px; transition: transform 0.3s;">&#9662;</span>
-      </span>
+      <button onclick="toggleDetails('details1')" style="background: none; border: none; color: #03A9F4; cursor: pointer; font-size: 14px;">자세히 보기 &#9662;</button>
     </h3>
     <div id="details1" style="display: none; margin-top: 10px; color: #585858;">
       <p>
@@ -170,12 +168,9 @@
 
   <!-- 프로젝트 2 -->
   <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <h3 style="color: #282d33; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between;">
+    <h3 style="color: #282d33; display: flex; justify-content: space-between; align-items: center;">
       <span>세종시 빅데이터 공모전</span>
-      <span onclick="toggleDetails('details2')" style="cursor: pointer; display: flex; align-items: center; color: #03A9F4;">
-        <span>자세한 내용</span>
-        <span id="arrow2" style="margin-left: 5px; transition: transform 0.3s;">&#9662;</span>
-      </span>
+      <button onclick="toggleDetails('details2')" style="background: none; border: none; color: #03A9F4; cursor: pointer; font-size: 14px;">자세히 보기 &#9662;</button>
     </h3>
     <div id="details2" style="display: none; margin-top: 10px; color: #585858;">
       <p>
@@ -193,16 +188,16 @@
 <script>
   function toggleDetails(id) {
     const details = document.getElementById(id);
-    const arrow = document.querySelector(`#${id.replace("details", "arrow")}`);
+    const button = details.previousElementSibling.querySelector("button");
 
     if (details.style.display === "none") {
       details.style.display = "block";
-      arrow.style.transform = "rotate(180deg)"; // 화살표 위로 회전
+      button.innerHTML = "자세히 보기 &#9652;"; // 화살표 위로 변경
     } else {
       details.style.display = "none";
-      arrow.style.transform = "rotate(0deg)"; // 화살표 아래로 회전
+      button.innerHTML = "자세히 보기 &#9662;"; // 화살표 아래로 변경
     }
   }
 </script>
-
+ㅍ     
 
