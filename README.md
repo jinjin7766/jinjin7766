@@ -55,18 +55,41 @@
   <!-- 첫 번째 행 -->
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <!-- Project 1 -->
-    <div style="width: 48%; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-      <h3 style="margin-bottom: 10px; color: #282d33;">
-        저출산 원인 분석 
-        <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">PDF 보기</a>
-      </h3>
-      <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
-        저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다.
-      </p>
-      <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf">
-        <img src="https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png" alt="SQL Project" style="width: 100%; height: auto; border-radius: 5px;">
-      </a>
-    </div>
+<div style="width: 48%; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+  <h3 style="margin-bottom: 10px; color: #282d33;">
+    저출산 원인 분석 
+    <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">PDF 보기</a>
+  </h3>
+  <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
+    저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다.
+    <button onclick="toggleDetails()" style="background-color: #03A9F4; color: white; border: none; border-radius: 5px; padding: 5px 10px; font-size: 14px; margin-left: 10px; cursor: pointer;">
+      자세한 내용 확인하기
+    </button>
+  </p>
+  <div id="details" style="display: none; margin-top: 10px; color: #585858; font-size: 14px;">
+    <p>이 프로젝트는 SQL 쿼리를 활용하여 저출산 문제의 다양한 원인을 데이터 기반으로 분석한 결과를 포함합니다.</p>
+    <ul>
+      <li>SQL을 사용한 데이터 전처리</li>
+      <li>Tableau를 활용한 데이터 시각화</li>
+      <li>정책 제안과 분석 결과 공유</li>
+    </ul>
+  </div>
+  <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf">
+    <img src="https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png" alt="SQL Project" style="width: 100%; height: auto; border-radius: 5px;">
+  </a>
+</div>
+
+<script>
+  function toggleDetails() {
+    const details = document.getElementById("details");
+    if (details.style.display === "none") {
+      details.style.display = "block";
+    } else {
+      details.style.display = "none";
+    }
+  }
+</script>
+
     <!-- Project 2 -->
     <div style="width: 48%; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
       <h3 style="margin-bottom: 10px; color: #282d33;">
