@@ -144,65 +144,92 @@
 
 
 
-<!-- Projects 섹션 -->
-<div style="font-family: Arial, sans-serif; margin-top: 30px;">
-  <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33;">📂 Projects Overview</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Details Toggle</title>
+  <style>
+    .project-container {
+      border: 1px solid #d8dee4;
+      border-radius: 8px;
+      padding: 10px;
+      margin-bottom: 10px;
+      background-color: #f9f9f9;
+    }
+    .project-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+    }
+    .project-title {
+      font-size: 18px;
+      font-weight: bold;
+      color: #282d33;
+      margin: 0;
+    }
+    .toggle-icon {
+      font-size: 18px;
+      color: #282d33;
+      transition: transform 0.3s;
+    }
+    .toggle-icon.collapsed {
+      transform: rotate(-90deg);
+    }
+    .project-details {
+      display: none;
+      margin-top: 10px;
+      font-size: 14px;
+      color: #585858;
+    }
+    .project-details.visible {
+      display: block;
+    }
+  </style>
+</head>
+<body>
 
-  <!-- 프로젝트 1 -->
-  <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <h3 style="margin: 0; color: #282d33;">저출산 원인 분석</h3>
-      <button onclick="toggleDetails('details1')" style="background: none; border: none; cursor: pointer; font-size: 16px; transform: rotate(0); transition: transform 0.3s;" id="arrow1">
-        &#9662;
-      </button>
-    </div>
-    <div id="details1" style="display: none; margin-top: 10px; color: #585858;">
-      <p>
-        이 프로젝트는 저출산 문제의 원인을 데이터 기반으로 분석하였습니다. 주요 작업:
-        <ul>
-          <li>SQL 쿼리를 활용한 데이터 전처리</li>
-          <li>Tableau를 이용한 데이터 시각화</li>
-          <li>정책 제안 및 보고서 작성</li>
-        </ul>
-      </p>
-    </div>
+<div class="project-container">
+  <div class="project-header" onclick="toggleDetails(this)">
+    <h3 class="project-title">저출산 원인 분석</h3>
+    <span class="toggle-icon">▼</span>
   </div>
+  <div class="project-details">
+    <p>이 프로젝트는 저출산 문제의 원인을 데이터 기반으로 분석한 내용입니다.</p>
+    <ul>
+      <li>SQL 쿼리를 사용하여 데이터 전처리</li>
+      <li>Tableau를 활용한 데이터 시각화</li>
+      <li>정책 제안을 포함한 보고서 작성</li>
+    </ul>
+  </div>
+</div>
 
-  <!-- 프로젝트 2 -->
-  <div style="margin-bottom: 20px; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <h3 style="margin: 0; color: #282d33;">세종시 빅데이터 공모전</h3>
-      <button onclick="toggleDetails('details2')" style="background: none; border: none; cursor: pointer; font-size: 16px; transform: rotate(0); transition: transform 0.3s;" id="arrow2">
-        &#9662;
-      </button>
-    </div>
-    <div id="details2" style="display: none; margin-top: 10px; color: #585858;">
-      <p>
-        세종시 폭염 저감을 위한 쿨페이브먼트 설치 최적 입지 선정 프로젝트입니다. 주요 작업:
-        <ul>
-          <li>Python과 Pandas를 활용한 데이터 분석</li>
-          <li>Tableau를 이용한 데이터 시각화</li>
-          <li>지역별 열섬 현상 분석</li>
-        </ul>
-      </p>
-    </div>
+<div class="project-container">
+  <div class="project-header" onclick="toggleDetails(this)">
+    <h3 class="project-title">세종시 빅데이터 공모전</h3>
+    <span class="toggle-icon">▼</span>
+  </div>
+  <div class="project-details">
+    <p>이 프로젝트는 세종시의 폭염 저감을 위한 쿨페이브먼트 최적 입지를 선정한 프로젝트입니다.</p>
+    <ul>
+      <li>Python과 Pandas를 활용한 데이터 분석</li>
+      <li>Tableau를 활용한 시각화</li>
+      <li>열섬 현상 분석과 정책 제안</li>
+    </ul>
   </div>
 </div>
 
 <script>
-  function toggleDetails(id) {
-    const details = document.getElementById(id);
-    const arrow = document.querySelector(`#arrow${id.slice(-1)}`); // 화살표 버튼 선택
-
-    if (details.style.display === "none") {
-      details.style.display = "block";
-      arrow.innerHTML = "&#9652;"; // 화살표 위로 변경
-      arrow.style.transform = "rotate(180deg)";
-    } else {
-      details.style.display = "none";
-      arrow.innerHTML = "&#9662;"; // 화살표 아래로 변경
-      arrow.style.transform = "rotate(0deg)";
-    }
+  function toggleDetails(element) {
+    const details = element.nextElementSibling;
+    const icon = element.querySelector('.toggle-icon');
+    details.classList.toggle('visible');
+    icon.classList.toggle('collapsed');
   }
 </script>
+
+</body>
+</html>
 
