@@ -76,6 +76,7 @@
       </h3>
       <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
         세종시 폭염 저감을 위한 쿨페이브먼트 최적 입지 선정 프로젝트입니다.
+        <a href="https://github.com/jinjin7766/deep" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
       </p>
       <a href="https://github.com/jinjin7766/Portfolio/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C_%ED%8F%AD%EC%97%BC_%EC%A0%80%EA%B0%90%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%BF%A8%ED%8E%98%EC%9D%B4%EB%B8%8C%EB%A8%BC%ED%8A%B8_%EC%B5%9C%EC%A0%81_%EC%9E%85%EC%A7%80_%EC%84%A0%EC%A0%95.pdf">
         <img src="https://github.com/jinjin7766/Portfolio/blob/main/%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%91%9C%EC%A7%80.png" alt="Cool Pavement Project" style="width: 100%; height: auto; border-radius: 5px;">
