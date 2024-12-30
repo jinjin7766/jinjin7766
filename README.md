@@ -141,24 +141,3 @@
 </div>
 
 
-<!-- Projects 섹션 -->
-<div style="font-family: Arial, sans-serif; margin-top: 30px;">
-  <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33;">📂 Projects Overview</h2>
-  
-  <!-- 첫 번째 행 -->
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <!-- Project 1 -->
-    <div style="width: 48%; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-      <h3 style="margin-bottom: 10px; color: #282d33; display: flex; align-items: center;">
-        <img src="https://via.placeholder.com/10" alt="dot" style="margin-right: 8px; border-radius: 50%; background-color: #282d33;">
-        저출산 원인 분석 
-        <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">PDF 보기</a>
-      </h3>
-      <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
-        저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다.
-      </p>
-      <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf">
-        <img src="https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png" alt="SQL Project" style="width: 100%; height: auto; border-radius: 5px;">
-      </a>
-    </div>
-
