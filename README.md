@@ -97,6 +97,7 @@
         <img src="https://github.com/jinjin7766/Portfolio/blob/main/%ED%87%B4%EC%82%AC%EC%98%88%EC%B8%A1_%ED%91%9C%EC%A7%80.png" alt="Employee Turnover Project" style="width: 100%; height: auto; border-radius: 5px;">
       </a>
 <!-- Project 4 -->
+<!-- Project 4 -->
 <div style="width: 48%; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
   <h3 style="margin-bottom: 10px; color: #282d33;">
     절도 행동 검출
@@ -104,11 +105,13 @@
   </h3>
   <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
     무인점포에서 절도 행동을 YOLO 모델로 탐지하는 딥러닝 프로젝트입니다.
+    <a href="https://github.com/jinjin7766/deep" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
   </p>
   <a href="https://github.com/jinjin7766/Portfolio/blob/main/%EB%AC%B4%EC%9D%B8%EC%A0%90%ED%8F%AC_%EC%A0%88%EB%8F%84%ED%83%90%EC%A7%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf">
     <img src="https://github.com/jinjin7766/Portfolio/blob/main/%EC%A0%88%EB%8F%84%ED%83%90%EC%A7%80_%ED%91%9C%EC%A7%80.png" alt="Theft Detection Project" style="width: 100%; height: auto; border-radius: 5px;">
   </a>
 </div>
+
 
 
 
