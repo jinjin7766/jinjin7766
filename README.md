@@ -62,7 +62,7 @@
       </h3>
       <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
         저출산 문제의 원인을 분석하고 SQL 쿼리를 사용하여 데이터를 시각화한 프로젝트입니다.
-        <a href="https://github.com/jinjin7766/deep" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
+        <a href="https://github.com/jinjin7766/SQL" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
       </p>
       <a href="https://github.com/jinjin7766/Portfolio/blob/main/11%EC%A1%B0_%EB%B0%95%EC%A7%84%EC%9A%B0_%EC%A1%B0%ED%98%9C%EC%A0%95.pdf">
         <img src="https://github.com/jinjin7766/Portfolio/blob/main/SQL_%ED%91%9C%EC%A7%80.png" alt="SQL Project" style="width: 100%; height: auto; border-radius: 5px;">
