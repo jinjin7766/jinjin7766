@@ -12,7 +12,7 @@
 <!-- 자기소개 섹션 -->
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 데이터를 통해 가치를 발견하고 문제를 해결하며 더 나은 결정을 이끌어내는 데이터 분석가를 꿈꾸는 박진우입니다. 끊임없이 배우고 성장하려는 자세로, 데이터를 분석해 숨겨진 패턴과 인사이트를 발견해 실질적인 변화를 만드는 과정을 즐기고, 더 나은 결정을 이끌어내는 분석가로 성장하고자 합니다.   </div> 
 </div>
 
 
