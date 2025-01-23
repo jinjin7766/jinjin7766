@@ -114,6 +114,20 @@
         <img src="https://github.com/jinjin7766/deep/blob/main/%EC%A0%88%EB%8F%84%ED%83%90%EC%A7%80_%ED%91%9C%EC%A7%80.png" alt="Theft Detection Project" style="width: 100%; height: auto; border-radius: 5px;">
       </a>
     </div>
+    <!-- Project 5 -->
+    <div style="width: 48%; border: 1px solid #d8dee4; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+      <h3 style="margin-bottom: 10px; color: #282d33;">
+        절도 행동 검출
+        <a href="https://github.com/jinjin7766/Marketing/blob/main/%EA%B3%A0%EA%B0%9D%EC%84%B8%EB%B6%84%ED%99%94%EB%B6%84%EC%84%9D.pdf" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">PDF 보기</a>
+      </h3>
+      <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
+        무인점포에서 절도 행동을 YOLO 모델로 탐지하는 딥러닝 프로젝트입니다.
+        <a href="https://github.com/jinjin7766/Marketing" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
+      </p>
+      <a href="https://github.com/jinjin7766/Marketing/blob/main/%EA%B3%A0%EA%B0%9D%EC%84%B8%EB%B6%84%ED%99%94%EB%B6%84%EC%84%9D.pdf">
+        <img src="https://github.com/jinjin7766/Marketing/blob/main/%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EB%B6%84%ED%99%94_%EB%B6%84%EC%84%9D_%ED%91%9C%EC%A7%80.png" alt="Theft Detection Project" style="width: 100%; height: auto; border-radius: 5px;">
+      </a>
+    </div>
   </div>
 </div>
 
