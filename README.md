@@ -46,7 +46,7 @@
 </div>
 
 
-
+---
 
 <!-- Projects 섹션 -->
 <div style="font-family: Arial, sans-serif; margin-top: 30px;">
@@ -146,7 +146,7 @@
 </div>
 
 
-
+---
 
 
 <!-- Contact 섹션 -->
