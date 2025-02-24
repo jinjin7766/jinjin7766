@@ -7,7 +7,7 @@
 <div style="text-align: left; font-size: 24px; font-weight: bold; margin-top: 20px; color: #282d33;">
 </div>
 
-# Park Jin Woo 포트폴리오
+# Park JinWoo(박진우) 포트폴리오
 
 <!-- 자기소개 섹션 -->
 <div style="text-align: left;"> 
