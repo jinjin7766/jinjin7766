@@ -136,7 +136,7 @@
       </h3>
       <p style="font-size: 14px; color: #585858; margin-bottom: 10px;">
         데이콘 대회에 참가해 전체순위 7등한 프로젝트입니다. LKH-3 Version 3.0.13 과 4-opt 기법을 사용하여 최적화 진행하였습니다.
-        <a href="https://github.com/jinjin7766/Marketing" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
+        <a href="https://github.com/jinjin7766/Dacon.santa" style="text-decoration: none; color: white; background-color: #03A9F4; padding: 4px 8px; border-radius: 5px; font-size: 12px; margin-left: 10px;">자세히 보기</a>
       </p>
       <a href="https://github.com/jinjin7766/Dacon.santa/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%84%A0%EB%AC%BC_%EC%84%A0%EB%AC%BC_%EB%B0%B0%EC%86%A1%EA%B2%BD%EB%A1%9C_%EC%B5%9C%EC%A0%81%ED%99%94_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf">
         <img src="https://github.com/jinjin7766/Dacon.santa/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%82%B0%ED%83%80_%ED%91%9C%EC%A7%80.png" alt="Theft Detection Project" style="width: 100%; height: auto; border-radius: 5px;">
